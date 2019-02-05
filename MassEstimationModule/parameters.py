@@ -1,3 +1,10 @@
+"""
+
+THIS FILE IS CURRENTLY NOT IN USE
+
+"""
+
+"""
 # from MassEstimationModule.part import *
 
 # avionics params
@@ -184,3 +191,4 @@ system_dict = {
     },
     "safety_factor": safety_factor
 }
+"""
